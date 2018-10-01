@@ -69,6 +69,15 @@
 		<string>rubicon-icon-font.ttf</string>
 		<string>SimpleLineIcons.ttf</string>
 		<string>Zocial.ttf</string>
+		<string>Lato-Black.ttf</string>
+		<string>Lato-Bold.ttf</string>
+		<string>NotoSans-Bold.ttf</string>
+		<string>NotoSans-BoldItalic.ttf</string>
+		<string>NotoSans-Italic.ttf</string>
+		<string>NotoSans-Regular.ttf</string>
+		<string>NotoSerif-Bold.ttf</string>
+		<string>NotoSerif-Regular.ttf</string>
+		<string>Lato-Light.ttf</string>
 	</array>
 </dict>
 </plist>
